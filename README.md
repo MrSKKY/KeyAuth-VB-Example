@@ -11,7 +11,7 @@ If you want to edit the KeyAuth.dll download the example above build the project
 
 https://gyazo.com/b4aaf79dfdafaad0f0b2efa507a6cfbd
 
-import it here and you're ready to go :)
+Import it in VB as reference and you're ready to go :)
 
 **What is KeyAuth?**
 
