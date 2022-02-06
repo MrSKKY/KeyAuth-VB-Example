@@ -4,9 +4,13 @@ KeyAuth Visual Basic Example for the https://keyauth.com Authentication system.
 Change 3 strings in Login.vb and you're ready.
 
 This example works with the CSHARP example.
+
 https://github.com/KeyAuth/KeyAuth-CSHARP-Example
+
 If you want to edit the KeyAuth.dll download the example above build the project, edit KeyAuth.cs and build it as .dll
+
 https://gyazo.com/b4aaf79dfdafaad0f0b2efa507a6cfbd
+
 import it here and you're ready to go :)
 
 **What is KeyAuth?**
